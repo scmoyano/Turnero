@@ -41,9 +41,7 @@ def inicio():
             if otro_turno == "N":
                 print("Gracias por su visita")
                 break
-if __name__== '__name__'
-
-
-inicio()
+if __name__== '__name__':
+    inicio()
 
 
